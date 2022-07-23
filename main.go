@@ -1,6 +1,8 @@
 package main
 
+import jServer "GoClientServer/Server"
+
 func main() {
 	//ExecuteClient()
-	ExecuteServer()
+	jServer.ExecuteServer()
 }

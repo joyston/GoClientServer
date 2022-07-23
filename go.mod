@@ -1,3 +1,3 @@
-module sample/GoClientServer
+module GoClientServer
 
 go 1.18
