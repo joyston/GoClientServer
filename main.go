@@ -5,5 +5,6 @@ import jServer "GoClientServer/Server"
 func main() {
 	//ExecuteClient()
 	// jServer.ExecuteServer()
-	jServer.ExecuteMiddleware()
+	//jServer.ExecuteMiddleware()
+	jServer.ExecuteTemplating()
 }
